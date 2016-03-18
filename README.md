@@ -24,7 +24,7 @@ Two Actions to be created:
 ```
 
 Actions should look like the following:
-<img source="actions.png">
+<img src="actions.png">
 
 3) Namespace needs to be setup with the following:
 ```command``` AND ```com.novell.nds.dirxml.driver.XdsCommandProcessor```
